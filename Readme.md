@@ -1,4 +1,4 @@
-# Frameplay Assignment
+# Frameplay
 
 ## React Client
 
